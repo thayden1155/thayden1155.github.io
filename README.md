@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Front Page</title>
 <link href="styles.css" type="text/css" rel="stylesheet">
 </head>
 <a href="1stpage.html">
