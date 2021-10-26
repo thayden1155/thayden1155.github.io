@@ -1,0 +1,43 @@
+.partialheader {
+	text-align: center;
+	color:greenyellow;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1.5px 1.5px blue;
+	font-family: Serif;
+}
+
+.topborder {
+	background-image: url("header.jpg");
+	height: 300px;
+	width: 1340px;
+    margin:0;
+    padding:0;
+    
+}
+
+.rotate90 {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+    height: 300px;
+    width: 1340px;
+    margin:0;
+    padding:0;
+}
+
+body {
+	
+	color: black;
+	
+}
+
+img.two {
+    height: 50%;
+    width: 50%;
+  }
+
+
+
