@@ -33,7 +33,7 @@
 .font-face {
     font-family: 'TikiTropic';
   
-    src: url('TikiTropic-webfont.ttf') format('truetype');
+    src: url('TikiTropic.ttf') format('truetype');
          
     font-weight: normal;
     font-style: normal;
