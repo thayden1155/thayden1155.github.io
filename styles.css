@@ -29,7 +29,7 @@
 }
 
 
-@font-face {
+.font-face {
     font-family: 'TikiTropic';
   
     src: url('@{plChildRoot}/fonts/TikiTropic-webfont.ttf') format('truetype'),
