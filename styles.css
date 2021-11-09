@@ -33,6 +33,7 @@
 
 .font-face {
     font-family: 'TikiTropic';
+	
   
     src: url('TikiTropic.ttf') format('truetype');
          
@@ -62,6 +63,13 @@ img.two {
   margin-right: auto;
   width: 50%;
 
+}
+
+.pageheader {
+	background-color: blue;
+	height: 300px;
+	width: 1340px;
+    margin:0;
 }
 
 
